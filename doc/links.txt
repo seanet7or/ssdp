@@ -1,0 +1,10 @@
+ftp://ftp.pwg.org/pub/pwg/ipp/new_SSDP/draft-cai-ssdp-v1-03.txt
+
+https://code.msdn.microsoft.com/Windows-Web-multicast-UDP-8c3e88c6
+This sample demonstrates how to use the Windows Web Services API to implement a UDP client that multicasts a request and then waits for reply messages from servers using IPv6.
+
+https://code.msdn.microsoft.com/Windows-Web-multicast-UDP-e888d244
+This sample demonstrates how to use the Windows Web Services API to implement a UDP server that listens on a multicast address and replies to requests sent to that address.
+
+https://code.msdn.microsoft.com/Windows-Web-multicast-UDP-ee0e22f4
+This sample demonstrates how to use the Windows Web Services API to implement a UDP server that listens on a multicast address and replies to requests sent to that address using IPv6.
